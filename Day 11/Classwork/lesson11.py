@@ -16,7 +16,7 @@ print(meanings)
 
 
 
-drinks = ["Coca-Cola", "Fanta", "Sprite", "Pepsi"]                                                         #3
+drinks = ["Coca-Cola", "Fanta", "Sprite", "Pepsi"]                                                                                 #3
 
 drink = int(input("""What Drink do you like from this list 
     Coca-Cola(0),

@@ -24,7 +24,7 @@ left(90)
 forward(70)
 color("orange")
 left(90)
-forward(120)     #height forward
+forward(120)   #height forward.
 right(90)
 forward(60)
 right(90)
@@ -43,6 +43,7 @@ forward(200)
 left(120)
 forward(200)
 end_fill()
+
 
 
 

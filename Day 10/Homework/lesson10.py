@@ -20,7 +20,7 @@ numbers3 = [33, 35, 37, 39, 41, 43, 45, 47, 49]
 print(f"First 3 numbers sum is {numbers3[0] + numbers3[1] + numbers3[2]} ")
 
 
-#5
+#5.
 print(f"Sum multiple of 3 is {numbers3[0] + numbers3[3] + numbers3[6]}")
 
 

@@ -23,7 +23,7 @@ print("your number is greater than 50 is " + str(num1 >= 50))
 
 
 
-num2 = int(input("Enter a number:"))            #4
+num2 = int(input("Enter a number:"))            #4)
 
 
 print("your numbers is greater than 10 and less than 50 is " + str(num2 > 10 and num2< 50))

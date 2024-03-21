@@ -4,4 +4,4 @@ age = int(input("Enter your age: "))
 
 
 
-print(f"Your name is {name} your surname is {surname} and your age is {age}")
+print(f"Your name is {name} your surname is {surname} and your age is {age}.")              

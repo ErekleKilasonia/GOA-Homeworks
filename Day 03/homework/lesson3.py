@@ -8,7 +8,7 @@ print("My mother is" + " " + str(num1) + " " + "My father is" + " " + str(num2) 
 
 
 
-num1 = 40             #after two years
+num1 = 40             #after two years.
 num2 = 46             
 num3 = 12
 num4 = 5
