@@ -1,5 +1,5 @@
 def names(name):                                #1
-    print("hello" + name)
+    print("hello " + name)
 names("nika")
 names("luka")
 

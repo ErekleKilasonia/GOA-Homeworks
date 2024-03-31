@@ -1,5 +1,5 @@
 
-def join(sentence):
+def join(sentence):                 
     x = sentence.split(" ")
     x = "".join(x)
     print(x)

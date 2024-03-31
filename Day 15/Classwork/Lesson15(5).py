@@ -7,6 +7,8 @@ def print_value(numbers):
         elif i > max:
             max = i
     print(f"Max number is :{max} and Min numbers is : {min}")
+
+
 my = [7,8,54,98,4]
 
 print_value(my)

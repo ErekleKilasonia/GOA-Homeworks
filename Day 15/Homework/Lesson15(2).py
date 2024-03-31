@@ -1,27 +1,9 @@
-def info(name_surname):
-    name.split(" ")
-    print(name)
+def calc_arithmetic(lst):
+    sum = sum(lst)
+    mean = sum / len(lst)
+    print("Arithmetic Mean:", int(mean))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-name = ["Erekle Kilasonia"]
-info(name)
+my_list = [1, 2, 3, 4, 5]
+calc_arithmetic(my_list)
