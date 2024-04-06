@@ -1,0 +1,10 @@
+while True:
+    counter = 0
+    word = input("Enter a word here: ")
+    for i in word:
+        while i == i.upper():
+            counter += 1
+            print(f"You have entered word with all uppercase letters and you have tried {counter} times")
+        else:
+            break
+
